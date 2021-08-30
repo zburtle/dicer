@@ -2,6 +2,8 @@
 Description
 ===========
 
+Dependency fixed version of dicer.
+
 A very fast streaming multipart parser for node.js.
 
 Benchmarks can be found [here](https://github.com/mscdex/dicer/wiki/Benchmarks).
